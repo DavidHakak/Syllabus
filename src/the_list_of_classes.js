@@ -1,16 +1,14 @@
 export const theListOfClasses = [
     {
-        id: 1,
         teacherName: "אביעד דרלי",
         theProgrammingLanguage: "javaScript - מבוא",
         date: "3.7.22",
         theLessonNumber: "1",
         linkToTheLesson: "https://youtu.be/-YPTjwck_0Q",
-        theContentOfTheLesson: "מהו fulls",
+        theContentOfTheLesson: "מהו fullstack",
         presentationsAndMore: '',
     },
     {
-        id: 2,
         teacherName: "אביעד דרלי",
         theProgrammingLanguage: "javaScript - מבוא",
         date: "5.7.22",
@@ -20,7 +18,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 3,
         teacherName: "אביעד דרלי",
         theProgrammingLanguage: "javaScript - מבוא",
         date: "10.7.22",
@@ -30,7 +27,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 6,
         teacherName: "אביעד דרלי",
         theProgrammingLanguage: "javaScript - מבוא",
         date: "12.7.22",
@@ -40,7 +36,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "אביעד דרלי",
         theProgrammingLanguage: "javaScript - מבוא",
         date: "19.7.22",
@@ -50,7 +45,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "אביעד דרלי",
         theProgrammingLanguage: "javaScript - מבוא",
         date: "24.7.22",
@@ -60,7 +54,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "אביעד דרלי",
         theProgrammingLanguage: "javaScript",
         date: "7.9.22",
@@ -70,7 +63,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "יוסף שרביט",
         theProgrammingLanguage: "HTML",
         date: "7.9.22",
@@ -80,7 +72,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "יוסף שרביט",
         theProgrammingLanguage: "javaScript",
         date: "11.9.22",
@@ -90,7 +81,6 @@ export const theListOfClasses = [
         presentationsAndMore: "",
     },
     {
-        id: 1,
         teacherName: "חננאל פרל",
         theProgrammingLanguage: "SQL",
         date: "11.9.22",
@@ -100,7 +90,6 @@ export const theListOfClasses = [
         presentationsAndMore: "",
     },
     {
-        id: 1,
         teacherName: "אביעד דרלי",
         theProgrammingLanguage: "javaScript",
         date: "14.9.22",
@@ -110,7 +99,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "יוסף שרביט",
         theProgrammingLanguage: "HTML",
         date: "14.9.22",
@@ -120,7 +108,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "יוסף שרביט",
         theProgrammingLanguage: "javaScript",
         date: "18.9.22",
@@ -130,7 +117,6 @@ export const theListOfClasses = [
         presentationsAndMore: "",
     },
     {
-        id: 1,
         teacherName: "יוסף שרביט",
         theProgrammingLanguage: "CSS",
         date: "14.9.22",
@@ -140,7 +126,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "אביעד דרלי",
         theProgrammingLanguage: "javaScript",
         date: "21.9.22",
@@ -150,7 +135,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "יוסף שרביט",
         theProgrammingLanguage: "CSS",
         date: "21.9.22",
@@ -160,7 +144,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "נריה",
         theProgrammingLanguage: "projects",
         date: "21.9.22",
@@ -170,7 +153,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "יוסף שרביט",
         theProgrammingLanguage: "DOM",
         date: "2.10.22",
@@ -180,7 +162,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "נריה",
         theProgrammingLanguage: "projects",
         date: "2.10.22",
@@ -190,7 +171,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "אביעד דרלי",
         theProgrammingLanguage: "javaScript",
         date: "19.10.22",
@@ -200,7 +180,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "גולן",
         theProgrammingLanguage: "projects",
         date: "19.10.22",
@@ -210,7 +189,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "יוסף שרביט",
         theProgrammingLanguage: "javaScript",
         date: "23.10.22",
@@ -220,7 +198,6 @@ export const theListOfClasses = [
         presentationsAndMore: "",
     },
     {
-        id: 1,
         teacherName: "חננאל פרל",
         theProgrammingLanguage: "Git/github",
         date: "23.10.22",
@@ -230,7 +207,6 @@ export const theListOfClasses = [
         presentationsAndMore: "",
     },
     {
-        id: 1,
         teacherName: "אביעד דרלי",
         theProgrammingLanguage: "javaScript",
         date: "26.10.22",
@@ -240,7 +216,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "גולן",
         theProgrammingLanguage: "projects",
         date: "26.10.22",
@@ -250,7 +225,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "יוסף שרביט",
         theProgrammingLanguage: "projects",
         date: "30.10.22",
@@ -260,7 +234,6 @@ export const theListOfClasses = [
         presentationsAndMore: "",
     },
     {
-        id: 1,
         teacherName: "חננאל פרל",
         theProgrammingLanguage: "Git/github",
         date: "30.10.22",
@@ -270,7 +243,6 @@ export const theListOfClasses = [
         presentationsAndMore: "",
     },
     {
-        id: 1,
         teacherName: "אביעד דרלי",
         theProgrammingLanguage: "JSON",
         date: "2.11.22",
@@ -280,7 +252,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "אביעד דרלי",
         theProgrammingLanguage: "React",
         date: "2.11.22",
@@ -290,7 +261,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "אביעד דרלי",
         theProgrammingLanguage: "React",
         date: "2.11.22",
@@ -300,7 +270,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "נריה",
         theProgrammingLanguage: "projects",
         date: "26.10.22",
@@ -310,7 +279,6 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        id: 1,
         teacherName: "יוסף שרביט",
         theProgrammingLanguage: "React",
         date: "6.11.22",
@@ -320,7 +288,6 @@ export const theListOfClasses = [
         presentationsAndMore: "",
     },
     {
-        id: 1,
         teacherName: "חננאל פרל",
         theProgrammingLanguage: "Git/github",
         date: "6.11.22",
@@ -330,7 +297,6 @@ export const theListOfClasses = [
         presentationsAndMore: "",
     },
     {
-        id: 1,
         teacherName: "אביעד דרלי",
         theProgrammingLanguage: "React",
         date: "9.11.22",
@@ -340,13 +306,30 @@ export const theListOfClasses = [
         presentationsAndMore: "",
     },
     {
-        id: 1,
         teacherName: "נריה",
         theProgrammingLanguage: "projects",
         date: "9.11.22",
         theLessonNumber: "6",
         linkToTheLesson: "https://youtu.be/UtaEcHYLUWU",
         theContentOfTheLesson: "my playlist 1",
+        presentationsAndMore: '',
+    },
+    {
+        teacherName: "יעל",
+        theProgrammingLanguage: "שיעורי עזר והשלמה",
+        date: "13.11.22",
+        theLessonNumber: "1",
+        linkToTheLesson: "https://youtu.be/EqAcFyPDI4E",
+        theContentOfTheLesson: "Clean code",
+        presentationsAndMore: '',
+    },
+    {
+        teacherName: "חננאל פרל",
+        theProgrammingLanguage: "SQL",
+        date: "13.11.22",
+        theLessonNumber: "2",
+        linkToTheLesson: "https://youtu.be/uNoSXlgblss",
+        theContentOfTheLesson: "המשך ופונקציונליות בשפה",
         presentationsAndMore: '',
     },
 ]

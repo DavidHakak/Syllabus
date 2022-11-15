@@ -15,12 +15,28 @@ function SearchLine(props) {
       ? theNamesOfTheProgrammingLanguages.push(language.theProgrammingLanguage)
       : language
   );
+
+  const changeTeacher = function (e) {
+    props.setTeatcher(e.target.value);
+  };
+
+  const changeLanguage = function (e) {
+    props.setLanguage(e.target.value);
+  };
+
   return (
     <div className="searchLine">
       <div className="containerTeacherName">
-        <label htmlFor="teacherName"> חיפוש לפי שם המורה:</label>
+        <label htmlFor="teacherName"> חיפוש לפי מורה:</label>
 
-        <select name="teacherName" id="teacherName">
+        <select
+          name="teacherName"
+          id="teacherName"
+          onChange={(e) => {
+            changeTeacher(e);
+          }}
+        >
+          <option value="allTeachers">כל המורים</option>
           {teacherNames.map((teacherName) => (
             <option key={teacherName} value={teacherName}>
               {teacherName}
@@ -30,8 +46,15 @@ function SearchLine(props) {
       </div>
 
       <div className="containerLanguagesName">
-        <label htmlFor="languagesName"> חיפוש לפי שם שפת התכנות:</label>
-        <select name="languagesName" id="languagesName">
+        <label htmlFor="languagesName"> חיפוש לפי שפת תכנות:</label>
+        <select
+          name="languagesName"
+          id="languagesName"
+          onChange={(e) => {
+            changeLanguage(e);
+          }}
+        >
+          <option value="allLanguage">כל השפות</option>
           {theNamesOfTheProgrammingLanguages.map((languagesName) => (
             <option key={languagesName} value={languagesName}>
               {languagesName}

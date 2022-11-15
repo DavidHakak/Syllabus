@@ -15,7 +15,7 @@ function Table(props) {
             <button>לצפייה בשיעור</button>
           </a>
         </td>
-        <td>{classes.presentationsAndMore[0]}</td>
+        <td>{classes.presentationsAndMore[0]} יעלה בהמשך</td>
       </tr>
     );
   }

@@ -87,7 +87,11 @@ export const theListOfClasses = [
         theLessonNumber: '1',
         linkToTheLesson: "https://www.youtube.com/watch?v=T7hfy696pI4",
         theContentOfTheLesson: "שאילתות בסיסיות",
-        presentationsAndMore: "",
+        presentationsAndMore: {
+            SQL_QUERY_syntax: "https://drive.google.com/file/d/1dUxzW4Vzd02acDrNlk-Fb8uEqbdGavWQ/view?usp=drive_web&authuser=0",
+            SQL_Course: "https://drive.google.com/file/d/1QDEEIPLBCtZ-0FXgdiCrEbruqL0x1RgK/view?usp=drive_web&authuser=0",
+            sqlite3_pptx_very_new3: 'https://drive.google.com/file/d/1Qipgp5n3ZT7DCjZZy5QwlGZT9Fw5APFo/view?usp=drive_web&authuser=0',
+        },
     },
     {
         teacherName: "אביעד דרלי",
@@ -96,7 +100,9 @@ export const theListOfClasses = [
         theLessonNumber: "2",
         linkToTheLesson: "https://youtu.be/3i6OjIGGndg",
         theContentOfTheLesson: "פונקציות ורקורסיה",
-        presentationsAndMore: '',
+        presentationsAndMore: {
+            Summary_of_functions: "https://drive.google.com/file/d/1nApv5Ga5St27jEOInoTjfai4MFZPShZw/view?usp=drive_web&authuser=0",
+        },
     },
     {
         teacherName: "יוסף שרביט",
@@ -258,7 +264,9 @@ export const theListOfClasses = [
         theLessonNumber: "1",
         linkToTheLesson: "https://youtu.be/F7aD_JJT4Xk",
         theContentOfTheLesson: "הסבר על השפה",
-        presentationsAndMore: '',
+        presentationsAndMore: {
+            introduction_to_React: "https://drive.google.com/file/d/1rdns2Kw9EnMDzsPaNDJHOmv0w5MHQ5wW/view?usp=drive_web&authuser=0",
+        },
     },
     {
         teacherName: "אביעד דרלי",
@@ -267,7 +275,9 @@ export const theListOfClasses = [
         theLessonNumber: "2",
         linkToTheLesson: "https://youtu.be/ntweL0gZo10",
         theContentOfTheLesson: "Components and props",
-        presentationsAndMore: '',
+        presentationsAndMore: {
+            lifeCycle: "https://drive.google.com/file/d/1GCyKtIvvg8OfoY387oyow5GhLHI4l5wB/view?usp=drive_web&authuser=0"
+        },
     },
     {
         teacherName: "נריה",
@@ -329,7 +339,7 @@ export const theListOfClasses = [
         date: "13.11.22",
         theLessonNumber: "2",
         linkToTheLesson: "https://youtu.be/uNoSXlgblss",
-        theContentOfTheLesson: "המשך ופונקציונליות בשפה",
+        theContentOfTheLesson: "(AGGREGATE FUNCTIONS) המשך ופונקציונליות בשפה",
         presentationsAndMore: '',
     },
 ]

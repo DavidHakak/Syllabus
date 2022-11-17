@@ -253,7 +253,7 @@ export const theListOfClasses = [
         theProgrammingLanguage: "JSON",
         date: "2.11.22",
         theLessonNumber: "1",
-        linkToTheLesson: "https://youtu.be/-_jHrBR3F0A",
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTY3NzM0MTY5ODY0/details",
         theContentOfTheLesson: "json and localStorage",
         presentationsAndMore: '',
     },
@@ -262,7 +262,7 @@ export const theListOfClasses = [
         theProgrammingLanguage: "React",
         date: "2.11.22",
         theLessonNumber: "1",
-        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTY3NzM0MTY5ODY0/details",
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTY3NzU0NTU4Nzg5/details",
         theContentOfTheLesson: "הסבר על השפה",
         presentationsAndMore: {
             introduction_to_React: "https://drive.google.com/file/d/1rdns2Kw9EnMDzsPaNDJHOmv0w5MHQ5wW/view?usp=drive_web&authuser=0",
@@ -273,7 +273,7 @@ export const theListOfClasses = [
         theProgrammingLanguage: "React",
         date: "2.11.22",
         theLessonNumber: "2",
-        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTY3NzU0NTU4Nzg5/details",
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTY3NzMyMzYxMTY0/details",
         theContentOfTheLesson: "Components and props",
         presentationsAndMore: {
             lifeCycle: "https://drive.google.com/file/d/1GCyKtIvvg8OfoY387oyow5GhLHI4l5wB/view?usp=drive_web&authuser=0"

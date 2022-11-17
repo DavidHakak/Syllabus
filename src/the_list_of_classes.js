@@ -356,7 +356,7 @@ export const theListOfClasses = [
         theProgrammingLanguage: "projects",
         date: "16.11.22",
         theLessonNumber: "7",
-        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTY5NDAyNTU5NzA4/details",
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTcxNDYwNzQxNDY2/details",
         theContentOfTheLesson: "my playlist 2 - (asynchronous operations), (Promise), (async , await), (Import songs from the server) ",
         presentationsAndMore: '',
     },

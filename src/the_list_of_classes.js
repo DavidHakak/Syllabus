@@ -342,4 +342,22 @@ export const theListOfClasses = [
         theContentOfTheLesson: "(AGGREGATE FUNCTIONS) המשך ופונקציונליות בשפה",
         presentationsAndMore: '',
     },
+    {
+        teacherName: "אביעד דרלי",
+        theProgrammingLanguage: "React",
+        date: "16.11.22",
+        theLessonNumber: '4',
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTcxNDYxMjAwMTEw/details",
+        theContentOfTheLesson: "API, fetch, then, useEffect,הדגמת מבנה פרוייקט מדינות בריאקט",
+        presentationsAndMore: "",
+    },
+    {
+        teacherName: "נריה",
+        theProgrammingLanguage: "projects",
+        date: "16.11.22",
+        theLessonNumber: "7",
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTY5NDAyNTU5NzA4/details",
+        theContentOfTheLesson: "my playlist 2 - (asynchronous operations), (Promise), (async , await), (Import songs from the server) ",
+        presentationsAndMore: '',
+    },
 ]

@@ -282,7 +282,7 @@ export const theListOfClasses = [
     {
         teacherName: "נריה",
         theProgrammingLanguage: "projects",
-        date: "26.10.22",
+        date: "2.11.22",
         theLessonNumber: "5",
         linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTY3NzMzMDI5NzAw/details",
         theContentOfTheLesson: "Memory game portal",

@@ -342,4 +342,5 @@ export const theListOfClasses = [
         theContentOfTheLesson: "(AGGREGATE FUNCTIONS) המשך ופונקציונליות בשפה",
         presentationsAndMore: '',
     },
+    
 ]

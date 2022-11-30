@@ -396,5 +396,14 @@ export const theListOfClasses = [
         theContentOfTheLesson: "http, useContext, Destructuring",
         presentationsAndMore: '',
     },
+    {
+        teacherName: "יוסף שרביט",
+        theProgrammingLanguage: "React",
+        date: "27.11.22",
+        theLessonNumber: '',
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTc0MzgxMzU2NDE5/details",
+        theContentOfTheLesson: " (Route, Link), תרגול וחזרה שיעורי בית חנות",
+        presentationsAndMore: "",
+    },
 
 ]

@@ -405,5 +405,22 @@ export const theListOfClasses = [
         theContentOfTheLesson: " (Route, Link), תרגול וחזרה שיעורי בית חנות",
         presentationsAndMore: "",
     },
-
+    {
+        teacherName: "אביעד דרלי",
+        theProgrammingLanguage: "MongoDB",
+        date: "30.11.22",
+        theLessonNumber: '1',
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTc1OTg4Mjk3NzIx/details",
+        theContentOfTheLesson: "Data base - (MongoDB), BL - (Business logic) ,DL - (Data layer), mongoose, try & catch",
+        presentationsAndMore: "",
+    },
+    {
+        teacherName: "יעל",
+        theProgrammingLanguage: "שיעורי עזר והשלמה",
+        date: "30.11.22",
+        theLessonNumber: "2",
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTc1OTg4Mjk3NzIx/details",
+        theContentOfTheLesson: "Object oriented",
+        presentationsAndMore: '',
+    },
 ]

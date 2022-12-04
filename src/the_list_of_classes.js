@@ -150,7 +150,7 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        teacherName: "נריה",
+        teacherName: "נריה בר-לב",
         theProgrammingLanguage: "projects",
         date: "21.9.22",
         theLessonNumber: "1",
@@ -168,7 +168,7 @@ export const theListOfClasses = [
         presentationsAndMore: '',
     },
     {
-        teacherName: "נריה",
+        teacherName: "נריה בר-לב",
         theProgrammingLanguage: "projects",
         date: "2.10.22",
         theLessonNumber: "2",
@@ -280,7 +280,7 @@ export const theListOfClasses = [
         },
     },
     {
-        teacherName: "נריה",
+        teacherName: "נריה בר-לב",
         theProgrammingLanguage: "projects",
         date: "2.11.22",
         theLessonNumber: "5",
@@ -316,7 +316,7 @@ export const theListOfClasses = [
         presentationsAndMore: "",
     },
     {
-        teacherName: "נריה",
+        teacherName: "נריה בר-לב",
         theProgrammingLanguage: "projects",
         date: "9.11.22",
         theLessonNumber: "6",
@@ -352,7 +352,7 @@ export const theListOfClasses = [
         presentationsAndMore: "",
     },
     {
-        teacherName: "נריה",
+        teacherName: "נריה בר-לב",
         theProgrammingLanguage: "projects",
         date: "16.11.22",
         theLessonNumber: "7",
@@ -388,7 +388,7 @@ export const theListOfClasses = [
         presentationsAndMore: "",
     },
     {
-        teacherName: "נריה",
+        teacherName: "נריה בר-לב",
         theProgrammingLanguage: "React",
         date: "23.11.22",
         theLessonNumber: "",

@@ -423,4 +423,22 @@ export const theListOfClasses = [
         theContentOfTheLesson: "Object oriented",
         presentationsAndMore: '',
     },
+    {
+        teacherName: "יוסף שרביט",
+        theProgrammingLanguage: "Mongo DB",
+        date: "4.12.22",
+        theLessonNumber: '',
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTc2MzA2NzI2MjIz/details",
+        theContentOfTheLesson:  " (mongodb - BL, DL) תרגול וחזרה ",
+        presentationsAndMore: "",
+    },
+    {
+        teacherName: "צבי ליאור",
+        theProgrammingLanguage: "React",
+        date: "4.12.22",
+        theLessonNumber: '',
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTc2MzA3MTYzOTIx/details",
+        theContentOfTheLesson: "React forms",
+        presentationsAndMore: "",
+    },
 ]

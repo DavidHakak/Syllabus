@@ -407,7 +407,7 @@ export const theListOfClasses = [
     },
     {
         teacherName: "אביעד דרלי",
-        theProgrammingLanguage: "MongoDB",
+        theProgrammingLanguage: "Mongo DB",
         date: "30.11.22",
         theLessonNumber: '1',
         linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTc1OTg4Mjk3NzIx/details",

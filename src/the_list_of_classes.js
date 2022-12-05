@@ -205,7 +205,7 @@ export const theListOfClasses = [
     },
     {
         teacherName: "חננאל פרל",
-        theProgrammingLanguage: "Git/github",
+        theProgrammingLanguage: "Git/Github",
         date: "23.10.22",
         theLessonNumber: '1',
         linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTU4OTE5MTUzODEw/details",
@@ -241,7 +241,7 @@ export const theListOfClasses = [
     },
     {
         teacherName: "חננאל פרל",
-        theProgrammingLanguage: "Git/github",
+        theProgrammingLanguage: "Git/Github",
         date: "30.10.22",
         theLessonNumber: '2',
         linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTYwNDUxODM1NDYx/details",
@@ -299,7 +299,7 @@ export const theListOfClasses = [
     },
     {
         teacherName: "חננאל פרל",
-        theProgrammingLanguage: "Git/github",
+        theProgrammingLanguage: "Git/Github",
         date: "6.11.22",
         theLessonNumber: '3',
         linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NDkxODk0NDEzOTA2/details",

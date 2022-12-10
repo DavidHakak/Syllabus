@@ -441,4 +441,22 @@ export const theListOfClasses = [
         theContentOfTheLesson: "React forms",
         presentationsAndMore: "",
     },
+    {
+        teacherName: "אביעד דרלי",
+        theProgrammingLanguage: "Mongo DB",
+        date: "7.12.22",
+        theLessonNumber: '2',
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTQwNDk4MTEwMjgy/details",
+        theContentOfTheLesson: "Create models and join tables, populate, express, PORT, (get, post, put, delete),Postman   ",
+        presentationsAndMore: "",
+    },
+    {
+        teacherName: "נריה בר-לב",
+        theProgrammingLanguage: "projects",
+        date: "7.12.22",
+        theLessonNumber: "8",
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTc3NDA4ODg1MzAz/details",
+        theContentOfTheLesson: "my playlist 2 - Mongo DB - routers, middleware, jwt(json web token), bcrypt(salt,hash)",
+        presentationsAndMore: '',
+    },
 ]

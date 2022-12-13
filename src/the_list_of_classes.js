@@ -459,4 +459,22 @@ export const theListOfClasses = [
         theContentOfTheLesson: "my playlist 2 - Mongo DB - routers, middleware, jwt(json web token), bcrypt(salt,hash)",
         presentationsAndMore: '',
     },
+    {
+        teacherName: "יוסף שרביט",
+        theProgrammingLanguage: "Mongo DB",
+        date: "11.12.22",
+        theLessonNumber: '',
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTc4Mjg2NzMzNTI1/details",
+        theContentOfTheLesson:  "package.json, express, routes תרגול וחזרה ",
+        presentationsAndMore: "",
+    },
+    {
+        teacherName: "עוז צחור",
+        theProgrammingLanguage: "Mongo DB",
+        date: "11.12.22",
+        theLessonNumber: '',
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTc4Mjg2NjM0MjAx/details",
+        theContentOfTheLesson:  "Server hierarchy, bcrypt, (register, login)  תרגול וחזרה ",
+        presentationsAndMore: "",
+    },
 ]

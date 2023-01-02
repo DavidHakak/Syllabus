@@ -486,4 +486,42 @@ export const theListOfClasses = [
         theContentOfTheLesson: "Routes, Json web token, Authorization, middleware, fs(files)",
         presentationsAndMore: "",
     },
+   
+    {
+        teacherName:"יוסף יהב",
+        theProgrammingLanguage: "node.js",
+        date: "28.12.22",
+        theLessonNumber: '4',
+        linkToTheLesson: " https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTgwODQ0MzU5NTI5/details",
+        theContentOfTheLesson: "fs library",
+        presentationsAndMore: "",
+    },
+    {
+        teacherName:"יוסף יהב",
+        theProgrammingLanguage: "CSS",
+        date: "28.12.22",
+        theLessonNumber: '3',
+        linkToTheLesson: " https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTgwODQ0MzU5NTI5/details",
+        theContentOfTheLesson: "css מורחב",
+        presentationsAndMore: "",
+    },
+    {
+        teacherName: "יוסף שרביט",
+        theProgrammingLanguage: "Node.js",
+        date: "01.01.23",
+        theLessonNumber: '',
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTgwOTYzOTQzMjIy/details",
+        theContentOfTheLesson:  "react forms, uploading files,(multer libery) ",
+        presentationsAndMore: "",
+    },
+    {
+        teacherName: "עוז צחור",
+        theProgrammingLanguage: "Node.js",
+        date: "01.01.23",
+        theLessonNumber: '',
+        linkToTheLesson: "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTgwOTY0MDA3NzU3/details",
+        theContentOfTheLesson:  "multer libery",
+        presentationsAndMore: "",
+    },
+
 ]

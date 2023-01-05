@@ -561,7 +561,7 @@ export const theListOfClasses = [
 
   {
     teacherName: "יוסף יהב",
-    theProgrammingLanguage: "node.js",
+    theProgrammingLanguage: "Node.js",
     date: "28.12.22",
     theLessonNumber: "4",
     linkToTheLesson:
@@ -608,6 +608,38 @@ export const theListOfClasses = [
       "https://edu-il.zoom.us/rec/play/YwWEPWr7dMPkdMFJJt4FAFMxIn4IGeYyhi_-tgf3xRBtMbzzpJpt1uoNsYk460kjbh2uDkpDnzGTKYW0.u5YsLIX-YMh3HspE?continueMode=true&_x_zm_rtaid=4mPwfmN4QwSHSIZxIpStjQ.1672905537146.23fe292e9b2fdef82ef76acbebd87882&_x_zm_rhtaid=971",
     theContentOfTheLesson:
       "try catch and throw , חיבור בין הקליינט לסרבר, Router, Middleware, Debugger, Use ref, Route (in react), Popup",
+    presentationsAndMore: "",
+  },
+  {
+    teacherName: "אביעד דרלי",
+    theProgrammingLanguage: "Node.js",
+    date: "04.01.23",
+    theLessonNumber: "4.1",
+    linkToTheLesson:
+      "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTgxMzYzMjQ5Mjc1/details",
+    theContentOfTheLesson: "new little project 'review', start to login  ",
+    presentationsAndMore: "",
+  },
+  {
+    teacherName: "אביעד דרלי",
+    theProgrammingLanguage: "Node.js",
+    date: "04.01.23",
+    theLessonNumber: "4.2",
+    linkToTheLesson:
+      "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTQxMDY2OTYzMzc3/details",
+    theContentOfTheLesson:
+      "back side of the login, token usage, חיבור הלוגאין מצד לצד",
+    presentationsAndMore: "",
+  },
+  {
+    teacherName: "נריה בר-לב",
+    theProgrammingLanguage: "Node.js",
+    date: "04.01.23",
+    theLessonNumber: "",
+    linkToTheLesson:
+      "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTgxMzYxNzQxMTU2/details",
+    theContentOfTheLesson:
+      "axios.interceptors.request/response , multer libery",
     presentationsAndMore: "",
   },
 ];

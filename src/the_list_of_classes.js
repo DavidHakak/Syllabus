@@ -642,4 +642,93 @@ export const theListOfClasses = [
       "axios.interceptors.request/response , multer libery",
     presentationsAndMore: "",
   },
+  {
+    teacherName: "יוסף שרביט",
+    theProgrammingLanguage: "React",
+    date: "15.01.23",
+    theLessonNumber: "",
+    linkToTheLesson:
+      "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTQxNDAxNzQwOTEx/details",
+    theContentOfTheLesson: "react context, useMemo ",
+    presentationsAndMore: "",
+  },
+  {
+    teacherName: "חננאל פרל",
+    theProgrammingLanguage: "SQL",
+    date: "15.01.23",
+    theLessonNumber: "4",
+    linkToTheLesson:
+      "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTgzNTM1NTY4NzY2/details",
+    theContentOfTheLesson: "סיכום SQL והקמת טבלה",
+    presentationsAndMore: "",
+  },
+  {
+    teacherName: "אביעד דרלי",
+    theProgrammingLanguage: "javaScript",
+    date: "18.01.23",
+    theLessonNumber: "",
+    linkToTheLesson:
+      "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTg0NDk4MDU4NTE4/details",
+    theContentOfTheLesson: "class, and start TypeScript",
+    presentationsAndMore: "",
+  },
+  {
+    teacherName: "עוז צחור",
+    theProgrammingLanguage: "SQL",
+    date: "18.01.23",
+    theLessonNumber: "",
+    linkToTheLesson:
+      "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTg0NDk4MDU4NTE4/details",
+    theContentOfTheLesson: "חיבור SQL לצד שרת (בסןף ההקלטה)",
+    presentationsAndMore: "",
+  },
+  {
+    teacherName: "יוסף שרביט",
+    theProgrammingLanguage: "React",
+    date: "22.01.23",
+    theLessonNumber: "",
+    linkToTheLesson:
+      "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTg1NTYyMzcyNTMw/details",
+    theContentOfTheLesson: "mobX",
+    presentationsAndMore: "",
+  },
+  {
+    teacherName: "חננאל פרל",
+    theProgrammingLanguage: "Cloud",
+    date: "22.01.23",
+    theLessonNumber: "1",
+    linkToTheLesson:
+      "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTg1NTcwNTUyODc1/details",
+    theContentOfTheLesson: "מיהו הענן וקצת AWS",
+    presentationsAndMore: "",
+  },
+  {
+    teacherName: "אביעד דרלי",
+    theProgrammingLanguage: "typeScript",
+    date: "25.01.23",
+    theLessonNumber: "",
+    linkToTheLesson:
+      "https://classroom.google.com/c/NTM5NDYxNjE4MDkz/m/NTg3NTg2NzMzNjY4/details",
+    theContentOfTheLesson:
+      "TypeScript interface and types, uploading a project to production, cyber, bugs and ",
+    presentationsAndMore: "",
+  },
+  {
+    teacherName: "דעאל התותח",
+    theProgrammingLanguage: "שיעורי עזר והשלמה",
+    date: "29.01.23",
+    theLessonNumber: "4",
+    linkToTheLesson: "https://www.youtube.com/watch?v=CU_TahldWxU",
+    theContentOfTheLesson: "Drive project",
+    presentationsAndMore: "",
+  },
+  {
+    teacherName: "ישראל זליקוביץ",
+    theProgrammingLanguage: "שיעורי עזר והשלמה",
+    date: "06.02.23",
+    theLessonNumber: "4",
+    linkToTheLesson: "https://www.youtube.com/watch?v=7dAV862f4p0",
+    theContentOfTheLesson: "איך מצאתי עבודה ראשונה",
+    presentationsAndMore: "",
+  },
 ];
